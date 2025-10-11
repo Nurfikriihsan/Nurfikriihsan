@@ -14,13 +14,11 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-- 🔭 I’m currently working on **AttendPro**
-
 - 🌱 I’m currently learning **Laravel, PHP**
 
 - 💬 Ask me about **JavaScript, Python, React, Express**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I once fixed a bug and immediately created three new ones 💥**
 
 ###
 
