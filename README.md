@@ -50,7 +50,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="postman logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
@@ -62,7 +66,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="60" alt="supabase logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo" /> 
   <img width="12" />
  
 
@@ -86,11 +94,11 @@
 <h2 align="left">🔥 My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurfikriihsan&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurfikriihsan&show_icons=true&theme=highcontrast" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nurfikriihsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nurfikriihsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false&hide=html,css" height="150" alt="languages graph"  />
   
-  <img src="https://streak-stats.demolab.com?user=Nurfikriihsan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nurfikriihsan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nurfikriihsan&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 
