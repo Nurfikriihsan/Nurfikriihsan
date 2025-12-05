@@ -6,9 +6,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nurfikriihsan&"  />
-</div>
+</div> -->
 
 ###
 
@@ -94,9 +94,9 @@
 <h2 align="left">🔥 My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurfikriihsan&show_icons=true&theme=highcontrast" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nurfikriihsan&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nurfikriihsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false&hide=html,css" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Nurfikriihsan&layout=compact&langs_count=8&theme=highcontrast" height="150" alt="languages graph"  />
   
   <img src="https://streak-stats.demolab.com?user=Nurfikriihsan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
