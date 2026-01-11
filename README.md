@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">👨‍💻 About Me</h2>
+<h2 align="left">About Me</h2>
 
 - 🌱 I’m currently learning **Laravel, PHP**
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 ###
 
-<h2 align="left">🔥 My Stats</h2>
+<h2 align="left">GitHub Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nurfihsn&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
@@ -110,7 +110,7 @@
 
 ###
 
-<h2 align="left">🐍 Snake animation</h2>
+<h2 align="left">Contribution</h2>
 
 <div align="center">
   <img src="https://github.com/nurfihsn/Nurfikriihsan/raw/output/snake.svg" alt="Snake animation" />
